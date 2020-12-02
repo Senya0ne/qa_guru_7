@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainPageTest_refactor" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-02T18:51:38" hostname="broadband-37-110-122-142.ip.moscow.rt.ru" time="4.844">
+  <properties/>
+  <testcase name="openPage()" classname="MainPageTest_refactor" time="4.844"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 26641
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 02, 2020 9:51:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
