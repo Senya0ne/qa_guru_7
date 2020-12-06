@@ -10,6 +10,5 @@ public class MainPageTest {
     public void openPage() {
         open("https://selenide.org");
         $("body").shouldHave(text("What is Selenide?"));
-
     }
 }
