@@ -24,6 +24,7 @@
 hs_err_pid*
 gradlew.bat
 build
+gradle
 gradlew
 .gradle
 radle/wrapper
