@@ -1,2 +1,0 @@
-com/example/selenide/tests/java/MainPageTest.java
- com.example.selenide.tests.java.MainPageTest
